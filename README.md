@@ -1,7 +1,7 @@
 # Delegator
 
 Decorates an object and delegates missing methods to it.
-[Based from the code in this gist](https://gist.github.com/decors/a1ba2b5e4a700235b0d993378836d7b4) by @decors
+[Based on the code in this gist](https://gist.github.com/decors/a1ba2b5e4a700235b0d993378836d7b4) by @decors
 
 ## Installation
 
