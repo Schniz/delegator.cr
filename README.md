@@ -1,4 +1,4 @@
-# Delegator
+# Delegator ![build status](https://travis-ci.org/Schniz/delegator.cr.svg?branch=master)
 
 Decorates an object and delegates missing methods to it.
 [Based on the code in this gist](https://gist.github.com/decors/a1ba2b5e4a700235b0d993378836d7b4) by @decors
