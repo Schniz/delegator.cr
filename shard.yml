@@ -1,0 +1,9 @@
+name: delegator
+version: 0.1.0
+
+authors:
+  - Gal Schlezinger <galstar@spitfire.co.il>
+
+crystal: 0.23.1
+
+license: MIT
